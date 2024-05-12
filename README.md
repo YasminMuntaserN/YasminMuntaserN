@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Karate Club**
 
--🌱 I am trying now to obtain (Google Project Management: Professional Certificate)
+- 🌱 I am trying now to obtain (Google Project Management: Professional Certificate)
 
 - 📫 How to reach me **yasminmun13@gmail.com**
 
