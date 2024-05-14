@@ -16,7 +16,7 @@
 - 📫 How to reach me **yasminmun13@gmail.com**
 
 <br/>
-<h3  style="margin-left: 70px;"> Connect with me 🤝 </h3>
+<h3   align="center" style="margin-left: 70px;"> Connect with me 🤝 </h3>
 
 <p>
  <div align="center" "  class="icons-social" >
