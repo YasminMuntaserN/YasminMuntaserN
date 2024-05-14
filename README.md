@@ -19,7 +19,7 @@
 <h3  style="margin-left: 70px;"> Connect with me 🤝 </h3>
 
 <p>
- <div "  class="icons-social" >
+ <div align="center" "  class="icons-social" >
         <a style="margin-left: 40px;"  target="_blank" href="https://www.linkedin.com/in/yasmin-muntaser-908411294/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 40px;" target="_blank" href="https://github.com/YasminMuntaserN">
