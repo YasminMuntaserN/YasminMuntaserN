@@ -9,7 +9,7 @@
 
 - 📚 Currently I am studying my bachelor's degree in software engineering
 
-- 🔭 I’m currently working on **Karate Club**
+- 🔭 I’m currently working on **DVDL System**
 
 - 🌱 I am trying now to obtain (Google Project Management: Professional Certificate)
 
